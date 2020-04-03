@@ -1,0 +1,125 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="05d807cc-6959-46f5-8f60-3414f3d09116" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.SOLID Principles/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.SOLID Principles/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SOLID Principles/D.cs" beforeDir="false" afterPath="$PROJECT_DIR$/SOLID Principles/D.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SOLID Principles/I.cs" beforeDir="false" afterPath="$PROJECT_DIR$/SOLID Principles/I.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SOLID Principles/L.cs" beforeDir="false" afterPath="$PROJECT_DIR$/SOLID Principles/L.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SOLID Principles/O.cs" beforeDir="false" afterPath="$PROJECT_DIR$/SOLID Principles/O.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SOLID Principles/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/SOLID Principles/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SOLID Principles/S.cs" beforeDir="false" afterPath="$PROJECT_DIR$/SOLID Principles/S.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SOLID Principles/bin/Debug/netcoreapp2.2/SOLID Principles.dll" beforeDir="false" afterPath="$PROJECT_DIR$/SOLID Principles/bin/Debug/netcoreapp2.2/SOLID Principles.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SOLID Principles/bin/Debug/netcoreapp2.2/SOLID Principles.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/SOLID Principles/bin/Debug/netcoreapp2.2/SOLID Principles.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SOLID Principles/obj/Debug/netcoreapp2.2/SOLID Principles.dll" beforeDir="false" afterPath="$PROJECT_DIR$/SOLID Principles/obj/Debug/netcoreapp2.2/SOLID Principles.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SOLID Principles/obj/Debug/netcoreapp2.2/SOLID Principles.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/SOLID Principles/obj/Debug/netcoreapp2.2/SOLID Principles.pdb" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/SOLID Principles/O.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SOLID Principles/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SOLID Principles/S.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SOLID Principles/I.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SOLID Principles/L.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SOLID Principles/D.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/A3710A31-DE54-419A-9622-9AE27828540F/22/d72e5c45/File.cs" root0="SKIP_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/SOLID Principles/O.cs" />
+        <option value="$PROJECT_DIR$/SOLID Principles/L.cs" />
+        <option value="$PROJECT_DIR$/SOLID Principles/I.cs" />
+        <option value="$PROJECT_DIR$/SOLID Principles/Program.cs" />
+        <option value="$PROJECT_DIR$/SOLID Principles/D.cs" />
+        <option value="$PROJECT_DIR$/SOLID Principles/S.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1a1VqI6hKLiZUtbMmhACsQKFfXy" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
+    <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Color Scheme Font" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Default" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="$PROJECT_DIR$/SOLID Principles/bin/Debug/netcoreapp2.2/SOLID Principles.dll" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/SOLID Principles/bin/Debug/netcoreapp2.2" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/SOLID Principles/SOLID Principles.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="DotNetCore" />
+      <option name="PROJECT_TFM" value=".NETCoreApp,Version=v2.2" />
+      <method v="2">
+        <option name="Build" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="05d807cc-6959-46f5-8f60-3414f3d09116" name="Default Changelist" comment="" />
+      <created>1585903275561</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585903275561</updated>
+      <workItem from="1585903278751" duration="14579000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="LOCAL_CHANGES_DETAILS_PREVIEW_SHOWN" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" suspend="NONE" type="DotNet Exception Breakpoints">
+          <properties exception="System.Threading.ThreadAbortException" displayValue="System.Threading.ThreadAbortException" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
