@@ -79,7 +79,7 @@
         public void Scan(Document d)
         {
             _scanner.Scan(d);
-            //Memento pattern
+            //Decorator pattern
         }
 
         public void Print(Document d)
